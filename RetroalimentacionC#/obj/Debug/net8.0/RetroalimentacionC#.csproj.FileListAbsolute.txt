@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.exe
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.deps.json
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.dll
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.pdb
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.dll
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\refint\RetroalimentacionC#.dll
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.pdb
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\ref\RetroalimentacionC#.dll
